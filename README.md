@@ -69,11 +69,14 @@ The infrastructure is managed through a modular Terraform setup. The deployment 
 
 # PART - 2 -TUMMOC
 
-Tool/Area,Rating (1-5),Comments or Example Projects
-"CI/CD (GitHub Actions, Jenkins, GitLab CI)",5,"Expert in designing complex, multi-stage pipelines; proficient in automated testing, security scanning, and blue-green deployments."
-Docker,5,"Extensive experience in containerizing microservices, optimizing image sizes, multi-stage builds, and managing local dev environments."
-Kubernetes,5,"Deep expertise in cluster orchestration (EKS/GKE), Helm charting, Istio service mesh, and managing production-grade scaling."
-Terraform / Ansible,5,Advanced proficiency in Infrastructure as Code (IaC) using Terraform/Terragrunt for multi-cloud and Ansible for configuration management.
-AWS / GCP / Azure,5,"Expert-level knowledge of AWS ecosystem (VPC, ECS, ECR, IAM, Lambda, RDS) with a focus on high availability and cost optimization."
-"Monitoring Tools (Prometheus, Grafana, ELK)",5,"Proven track record in setting up full-stack observability, custom dashboards, and automated alerting systems for distributed systems."
-Git,5,"Mastery of advanced Git workflows, branching strategies, submodule management, and resolving complex merge conflicts."
+### Part 2: Self-Assessment
+
+| Tool/Area | Rating (1-5) | Comments or Example Projects |
+| :--- | :---: | :--- |
+| **CI/CD** (GitHub Actions, Jenkins) | 5 | Expert in designing multi-stage pipelines, automated testing, and blue-green deployments. |
+| **Docker** | 5 | Extensive experience in containerizing microservices, multi-stage builds, and image optimization. |
+| **Kubernetes** | 5 | Deep expertise in cluster orchestration (EKS/GKE), Helm, and managing production-grade scaling. |
+| **Terraform / Ansible** | 5 | Advanced proficiency in IaC using Terraform/Terragrunt and Ansible for configuration management. |
+| **AWS / GCP / Azure** | 5 | Expert-level knowledge of cloud ecosystems (VPC, ECS, ECR, IAM, Lambda) and cost optimization. |
+| **Monitoring Tools** (Prometheus, Grafana, ELK) | 5 | Proven track record in setting up full-stack observability, custom dashboards, and alerting. |
+| **Git** | 5 | Mastery of advanced Git workflows, branching strategies, and complex merge resolution. |
